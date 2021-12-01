@@ -1,0 +1,245 @@
+Year	Month	Season	Time	Phenotype1	Foraging	Strata	Phenotype
+2015	Jan	Wet 	150	Adult male	7.06	midstory	Adult male-wet
+2015	Jan	Wet 	135	Green	7.06	midstory	Green-wet
+2015	Feb	Wet 	80	Green	9.53	midstory	Green-wet
+2015	Feb	Wet 	35	Green	12.73	midstory	Green-wet
+2015	Feb	Wet 	255	Adult male	7.8	midstory	Adult male-wet
+2015	Feb	Wet 	20	Green	7.8	midstory	Green-wet
+2015	Feb	Wet 	22	Adult male	7.97	midstory	Adult male-wet
+2015	Feb	Wet 	76	Adult male	8.03	midstory	Adult male-wet
+2015	Feb	Wet 	80	Adult male	10.25	midstory	Adult male-wet
+2015	Feb	Wet 	15	Green	2.78	understory	Green-wet
+2015	Feb	Wet 	180	Green	9.56	midstory	Green-wet
+2015	Mar	Wet 	60	Green	7.71	midstory	Green-wet
+2015	Apr	Dry	20	Adult male	10.06	midstory	Adult male-dry
+2015	Apr	Dry	70	Adult male	15.51	canopy	Adult male-dry
+2015	Apr	Dry	20	Adult male	12.04	midstory	Adult male-dry
+2015	Apr	Dry	10	Adult male	4.22	midstory	Adult male-dry
+2015	Apr	Dry	70	Adult male	6.06	midstory	Adult male-dry
+2015	Apr	Dry	220	Adult male	7.41	midstory	Adult male-dry
+2015	May	Dry	40	Adult male	8.72	midstory	Adult male-dry
+2015	May	Dry	20	Green	7.77	midstory	Green-dry
+2015	May	Dry	60	Adult male	4.18	midstory	Adult male-dry
+2015	Jun	Dry	10	Adult male	3.33	midstory	Adult male-dry
+2015	Jun	Dry	20	Green	6.05	midstory	Green-dry
+2015	Jun	Dry	20	Green	2.93	understory	Green-dry
+2015	Jun	Dry	40	Adult male	6.11	midstory	Adult male-dry
+2015	Jun	Dry	60	Adult male	1.85	understory	Adult male-dry
+2015	Jun	Dry	25	Green	4.28	midstory	Green-dry
+2015	Jun	Dry	155	Adult male	2.7	understory	Adult male-dry
+2015	Jun	Dry	68	Adult male	15.36	canopy	Adult male-dry
+2015	Jun	Dry	35	Green	15.01	canopy	Green-dry
+2015	Jun	Dry	20	Adult male	5.14	midstory	Adult male-dry
+2015	Jun	Dry	350	Adult male	7.69	midstory	Adult male-dry
+2015	Jun	Dry	10	Green	1.4	understory	Green-dry
+2015	Jul	Dry	10	Adult male	10.29	midstory	Adult male-dry
+2015	Jul	Dry	10	Green	7.97	midstory	Green-dry
+2015	Jul	Dry	40	Green	11.04	midstory	Green-dry
+2015	Jul	Dry	140	Adult male	14.44	midstory	Adult male-dry
+2015	Jul	Dry	125	Green	1.79	understory	Green-dry
+2015	Jul	Dry	10	Adult male	11.18	midstory	Adult male-dry
+2015	Jul	Dry	10	Green	8.08	midstory	Green-dry
+2015	Jul	Dry	150	Adult male	7.25	midstory	Adult male-dry
+2015	Jul	Dry	30	Adult male	12.32	midstory	Adult male-dry
+2015	Jul	Dry	80	Adult male	11.28	midstory	Adult male-dry
+2015	Jul	Dry	15	Adult male	8.17	midstory	Adult male-dry
+2015	Jul	Dry	275	Adult male	15.63	canopy	Adult male-dry
+2015	Jul	Dry	90	Adult male	5.76	midstory	Adult male-dry
+2015	Jul	Dry	190	Adult male	12.54	midstory	Adult male-dry
+2015	Jul	Dry	120	Adult male	7.13	midstory	Adult male-dry
+2015	Aug	Dry	41	Adult male	13.73	midstory	Adult male-dry
+2015	Aug	Dry	15	Adult male	14.5	midstory	Adult male-dry
+2015	Aug	Dry	147	Adult male	11.09	midstory	Adult male-dry
+2015	Aug	Dry	86	Green	11.09	midstory	Green-dry
+2015	Aug	Dry	147	Green	11.09	midstory	Green-dry
+2015	Aug	Dry	44	Adult male	12.33	midstory	Adult male-dry
+2015	Aug	Dry	95	Adult male	17.47	canopy	Adult male-dry
+2015	Aug	Dry	245	Adult male	17.47	canopy	Adult male-dry
+2015	Aug	Dry	10	Green	11.72	midstory	Green-dry
+2015	Sep	Dry	270	Adult male	15.81	canopy	Adult male-dry
+2015	Sep	Dry	80	Green	15.81	canopy	Green-dry
+2015	Sep	Dry	80	Green	14.81	midstory	Green-dry
+2015	Sep	Dry	20	Adult male	6.65	midstory	Adult male-dry
+2015	Sep	Dry	30	Adult male	7.24	midstory	Adult male-dry
+2015	Sep	Dry	65	Adult male	15.81	canopy	Adult male-dry
+2015	Sep	Dry	80	Green	15.81	canopy	Green-dry
+2015	Sep	Dry	10	Adult male	15.81	canopy	Adult male-dry
+2015	Sep	Dry	70	Adult male	9.48	midstory	Adult male-dry
+2015	Sep	Dry	100	Adult male	9.48	midstory	Adult male-dry
+2015	Sep	Dry	100	Green	9.48	midstory	Green-dry
+2015	Sep	Dry	10	Adult male	14.73	midstory	Adult male-dry
+2015	Sep	Dry	10	Green	14.73	midstory	Green-dry
+2015	Sep	Dry	30	Green	14.73	midstory	Green-dry
+2015	Oct	Wet 	10	Green	14.73	midstory	Green-wet
+2015	Oct	Wet 	15	Adult male	18.21	canopy	Adult male-wet
+2015	Oct	Wet 	30	Green	14.73	midstory	Green-wet
+2015	Oct	Wet 	92	Adult male	14.73	midstory	Adult male-wet
+2015	Oct	Wet 	10	Green	14.73	midstory	Green-wet
+2015	Oct	Wet 	16	Adult male	6.46	midstory	Adult male-wet
+2015	Oct	Wet 	220	Adult male	5.75	midstory	Adult male-wet
+2015	Oct	Wet 	255	Adult male	14.73	midstory	Adult male-wet
+2015	Oct	Wet 	255	Green	14.73	midstory	Green-wet
+2015	Oct	Wet 	90	Adult male	7.81	midstory	Adult male-wet
+2015	Oct	Wet 	100	Green	6.16	midstory	Green-wet
+2015	Oct	Wet 	90	Adult male	14.73	midstory	Adult male-wet
+2015	Oct	Wet 	20	Green	14.73	midstory	Green-wet
+2015	Oct	Wet 	45	Green	14.73	midstory	Green-wet
+2015	Oct	Wet 	15	Adult male	6.81	midstory	Adult male-wet
+2015	Oct	Wet 	35	Adult male	7.16	midstory	Adult male-wet
+2015	Oct	Wet 	70	Adult male	9.89	midstory	Adult male-wet
+2015	Nov	Wet 	45	Adult male	8.88	midstory	Adult male-wet
+2015	Nov	Wet 	60	Adult male	16.92	canopy	Adult male-wet
+2015	Nov	Wet 	95	Adult male	2.37	understory	Adult male-wet
+2015	Nov	Wet 	15	Green	11.94	midstory	Green-wet
+2015	Nov	Wet 	10	Green	13.14	midstory	Green-wet
+2015	Nov	Wet 	10	Adult male	8.22	midstory	Adult male-wet
+2015	Dec	Wet 	10	Green	14.14	midstory	Green-wet
+2015	Dec	Wet 	20	Green	9.92	midstory	Green-wet
+2015	Dec	Wet 	125	Adult male	6.39	midstory	Adult male-wet
+2015	Dec	Wet 	15	Adult male	11.23	midstory	Adult male-wet
+2015	Dec	Wet 	15	Adult male	9.93	midstory	Adult male-wet
+2015	Dec	Wet 	65	Adult male	8.51	midstory	Adult male-wet
+2015	Dec	Wet 	100	Adult male	9.7	midstory	Adult male-wet
+2015	Dec	Wet 	30	Adult male	8.73	midstory	Adult male-wet
+2016	Jan	Wet 	210	Green	8.06	midstory	Green-wet
+2016	Jan	Wet 	160	Green	7.29	midstory	Green-wet
+2016	Jan	Wet 	135	Adult male	7.29	midstory	Adult male-wet
+2016	Jan	Wet 	30	Adult male	8.98	midstory	Adult male-wet
+2016	Feb	Wet 	30	Adult male	4.07	midstory	Adult male-wet
+2016	Feb	Wet 	10	Green	13.2	midstory	Green-wet
+2016	Feb	Wet 	70	Adult male	8.72	midstory	Adult male-wet
+2016	Feb	Wet 	127	Adult male	7.5	midstory	Adult male-wet
+2016	Feb	Wet 	107	Adult male	16.43	canopy	Adult male-wet
+2016	Feb	Wet 	120	Adult male	9.92	midstory	Adult male-wet
+2016	Feb	Wet 	40	Adult male	7.67	midstory	Adult male-wet
+2016	Feb	Wet 	179	Adult male	12.86	midstory	Adult male-wet
+2016	Feb	Wet 	179	Adult male	12.86	midstory	Adult male-wet
+2016	Mar	Wet 	40	Adult male	6.78	midstory	Adult male-wet
+2016	Mar	Wet 	30	Adult male	3.8	midstory	Adult male-wet
+2016	Mar	Wet 	96	Adult male	7.85	midstory	Adult male-wet
+2016	Mar	Wet 	39	Adult male	4.2	midstory	Adult male-wet
+2016	Mar	Wet 	39	Green	3.9	midstory	Green-wet
+2016	Mar	Wet 	240	Adult male	3.98	midstory	Adult male-wet
+2016	Mar	Wet 	180	Adult male	3.98	midstory	Adult male-wet
+2016	Mar	Wet 	90	Adult male	3.98	midstory	Adult male-wet
+2016	Mar	Wet 	30	Adult male	7.17	midstory	Adult male-wet
+2016	May	Dry	23	Adult male	4.27	midstory	Adult male-dry
+2016	May	Dry	118	Adult male	2.45	understory	Adult male-dry
+2016	May	Dry	98	Adult male	3.25	midstory	Adult male-dry
+2016	May	Dry	253	Adult male	5.12	midstory	Adult male-dry
+2016	May	Dry	20	Adult male	5.46	midstory	Adult male-dry
+2016	May	Dry	158	Adult male	4	midstory	Adult male-dry
+2016	May	Dry	229	Green	2.73	understory	Green-dry
+2016	May	Dry	82	Adult male	4	midstory	Adult male-dry
+2016	May	Dry	20	Adult male	10	midstory	Adult male-dry
+2016	May	Dry	120	Adult male	2.73	understory	Adult male-dry
+2016	May	Dry	58	Adult male	2	understory	Adult male-dry
+2016	May	Dry	259	Adult male	2.5	understory	Adult male-dry
+2016	May	Dry	10	Green	1.82	understory	Green-dry
+2016	May	Dry	91	Green	0.3	understory	Green-dry
+2016	May	Dry	106	Adult male	0.3	understory	Adult male-dry
+2016	May	Dry	145	Adult male	1.7	understory	Adult male-dry
+2016	May	Dry	244	Adult male	5.46	midstory	Adult male-dry
+2016	May	Dry	128	Adult male	3.64	midstory	Adult male-dry
+2016	May	Dry	45	Adult male	1	understory	Adult male-dry
+2016	Jun	Dry	70	Adult male	2.88	understory	Adult male-dry
+2016	Jun	Dry	165	Adult male	4.59	midstory	Adult male-dry
+2016	Jun	Dry	80	Adult male	3.07	midstory	Adult male-dry
+2016	Jun	Dry	156	Adult male	4.59	midstory	Adult male-dry
+2016	Jun	Dry	116	Adult male	2.71	understory	Adult male-dry
+2016	Jun	Dry	125	Adult male	2.71	understory	Adult male-dry
+2016	Jun	Dry	51	Adult male	7.28	midstory	Adult male-dry
+2016	Jun	Dry	210	Green	5.96	midstory	Green-dry
+2016	Jun	Dry	100	Adult male	2.75	understory	Adult male-dry
+2016	Jun	Dry	360	Adult male	2.82	understory	Adult male-dry
+2016	Jun	Dry	140	Adult male	2.82	understory	Adult male-dry
+2016	Jun	Dry	83	Green	2.82	understory	Green-dry
+2016	Jun	Dry	10	Adult male	3.5	midstory	Adult male-dry
+2016	Jun	Dry	120	Adult male	1.61	understory	Adult male-dry
+2016	Jun	Dry	120	Adult male	1.61	understory	Adult male-dry
+2016	Jun	Dry	120	Green	1.61	understory	Green-dry
+2016	Jun	Dry	10	Adult male	6.04	midstory	Adult male-dry
+2016	Jun	Dry	25	Adult male	10.29	midstory	Adult male-dry
+2016	Jun	Dry	345	Adult male	1.82	understory	Adult male-dry
+2016	Jun	Dry	133	Adult male	1.5	understory	Adult male-dry
+2016	Jun	Dry	183	Adult male	5.51	midstory	Adult male-dry
+2016	Jul	Dry	10	Adult male	2.41	understory	Adult male-dry
+2016	Jul	Dry	65	Adult male	7.58	midstory	Adult male-dry
+2016	Jul	Dry	50	Adult male	13	midstory	Adult male-dry
+2016	Jul	Dry	29	Adult male	7.08	midstory	Adult male-dry
+2016	Jul	Dry	37	Adult male	10.12	midstory	Adult male-dry
+2016	Jul	Dry	20	Adult male	11.16	midstory	Adult male-dry
+2016	Jul	Dry	35	Adult male	11.16	midstory	Adult male-dry
+2016	Jul	Dry	75	Adult male	11.78	midstory	Adult male-dry
+2016	Jul	Dry	138	Adult male	11.78	midstory	Adult male-dry
+2016	Jul	Dry	175	Adult male	5.02	midstory	Adult male-dry
+2016	Jul	Dry	220	Adult male	5.02	midstory	Adult male-dry
+2016	Jul	Dry	270	Adult male	5.02	midstory	Adult male-dry
+2016	Jul	Dry	43	Adult male	7.59	midstory	Adult male-dry
+2016	Jul	Dry	45	Adult male	7.59	midstory	Adult male-dry
+2016	Jul	Dry	54	Adult male	11.81	midstory	Adult male-dry
+2016	Aug	Dry	10	Green	5.87	midstory	Green-dry
+2016	Aug	Dry	20	Green	8.49	midstory	Green-dry
+2016	Aug	Dry	65	Adult male	8.49	midstory	Adult male-dry
+2016	Aug	Dry	21	Adult male	6.84	midstory	Adult male-dry
+2016	Aug	Dry	40	Adult male	8.49	midstory	Adult male-dry
+2016	Aug	Dry	88	Adult male	8.49	midstory	Adult male-dry
+2016	Aug	Dry	78	Green	9.94	midstory	Green-dry
+2016	Aug	Dry	95	Adult male	13.13	midstory	Adult male-dry
+2016	Aug	Dry	49	Adult male	10.35	midstory	Adult male-dry
+2016	Aug	Dry	60	Adult male	10.35	midstory	Adult male-dry
+2016	Aug	Dry	74	Adult male	12.22	midstory	Adult male-dry
+2016	Aug	Dry	120	Adult male	7.38	midstory	Adult male-dry
+2016	Aug	Dry	50	Adult male	7.38	midstory	Adult male-dry
+2016	Aug	Dry	151	Adult male	8.74	midstory	Adult male-dry
+2016	Sep	Dry	15	Adult male	6.62	midstory	Adult male-dry
+2016	Sep	Dry	22	Green	5.21	midstory	Green-dry
+2016	Sep	Dry	20	Green	7.29	midstory	Green-dry
+2016	Sep	Dry	39	Adult male	9.8	midstory	Adult male-dry
+2016	Sep	Dry	80	Green	4.22	midstory	Green-dry
+2016	Sep	Dry	13	Green	10.27	midstory	Green-dry
+2016	Sep	Dry	109	Adult male	7.74	midstory	Adult male-dry
+2016	Sep	Dry	10	Green	4.38	midstory	Green-dry
+2016	Sep	Dry	60	Green	16.87	canopy	Green-dry
+2016	Sep	Dry	20	Adult male	3	midstory	Adult male-dry
+2016	Sep	Dry	54	Green	11.1	midstory	Green-dry
+2016	Sep	Dry	60	Adult male	6.84	midstory	Adult male-dry
+2016	Sep	Dry	55	Adult male	7.29	midstory	Adult male-dry
+2016	Sep	Dry	15	Green	2.68	understory	Green-dry
+2016	Sep	Dry	15	Green	2.68	understory	Green-dry
+2016	Sep	Dry	238	Adult male	4.73	midstory	Adult male-dry
+2016	Oct	Wet 	90	Adult male	1.7	understory	Adult male-wet
+2016	Oct	Wet 	60	Green	8.27	midstory	Green-wet
+2016	Oct	Wet 	10	Adult male	9.14	midstory	Adult male-wet
+2016	Oct	Wet 	15	Adult male	9.14	midstory	Adult male-wet
+2016	Oct	Wet 	33	Adult male	7.83	midstory	Adult male-wet
+2016	Oct	Wet 	120	Adult male	9.17	midstory	Adult male-wet
+2016	Oct	Wet 	63	Green	5.43	midstory	Green-wet
+2016	Oct	Wet 	87	Green	4.18	midstory	Green-wet
+2016	Nov	Wet 	90	Adult male	13.09	midstory	Adult male-wet
+2016	Nov	Wet 	90	Green	13.09	midstory	Green-wet
+2016	Nov	Wet 	86	Adult male	13.02	midstory	Adult male-wet
+2016	Nov	Wet 	388	Adult male	10.78	midstory	Adult male-wet
+2016	Nov	Wet 	235	Adult male	10.78	midstory	Adult male-wet
+2016	Nov	Wet 	8	Adult male	10.26	midstory	Adult male-wet
+2016	Nov	Wet 	215	Adult male	10.78	midstory	Adult male-wet
+2016	Nov	Wet 	140	Adult male	10.78	midstory	Adult male-wet
+2016	Nov	Wet 	42	Green	4.72	midstory	Green-wet
+2016	Dec	Wet 	98	Green	8.98	midstory	Green-wet
+2016	Dec	Wet 	93	Green	7.25	midstory	Green-wet
+2016	Dec	Wet 	140	Adult male	13.94	midstory	Adult male-wet
+2016	Dec	Wet 	420	Adult male	13.94	midstory	Adult male-wet
+2016	Dec	Wet 	110	Adult male	13.94	midstory	Adult male-wet
+2016	Dec	Wet 	108	Adult male	13.94	midstory	Adult male-wet
+2016	Dec	Wet 	90	Adult male	13.94	midstory	Adult male-wet
+2016	Dec	Wet 	55	Green	3.74	midstory	Green-wet
+2016	Dec	Wet 	210	Green	3.74	midstory	Green-wet
+2016	Dec	Wet 	150	Adult male	13.94	midstory	Adult male-wet
+2016	Dec	Wet 	120	Adult male	13.94	midstory	Adult male-wet
+2016	Dec	Wet 	147	Green	6.43	midstory	Green-wet
+2016	Dec	Wet 	71	Adult male	6.48	midstory	Adult male-wet
+2016	Dec	Wet 	11	Green	6.05	midstory	Green-wet
+2016	Dec	Wet 	87	Adult male	13.94	midstory	Adult male-wet
+2016	Dec	Wet 	60	Green	2.79	understory	Green-wet
+2016	Dec	Wet 	7	Green	6.84	midstory	Green-wet
+2016	Dec	Wet 	122	Green	8.45	midstory	Green-wet
